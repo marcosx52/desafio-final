@@ -2,3 +2,10 @@
   margin: 0;
   padding: 0;
 }
+
+.cont-nosotros {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 3px;
+}
