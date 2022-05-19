@@ -1,0 +1,14 @@
+/*Colores*/
+/*Fonts*/
+@import url("https://fonts.googleapis.com/css2?family=Anek+Odia&display=swap");
+/* Footer */
+.footerBg {
+  background-image: linear-gradient(to bottom, #FB54E6, #000000);
+}
+
+.footerBg div {
+  text-align: center;
+}
+
+
+/*# sourceMappingURL=style.css.map */
