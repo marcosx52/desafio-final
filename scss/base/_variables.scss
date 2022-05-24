@@ -1,14 +1,16 @@
 /*Colores*/
-$dark: black;
-$light: gray;
+$dark: #26272b;
+$light: #bbb;
 $special: orange;
 $white: white;
+$blue: #3366cc;
+
 
 /*Fonts*/
-@import url('https://fonts.googleapis.com/css2?family=Anek+Odia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Odia&family=Poppins&family=Roboto:wght@100&display=swap');
 
-$main-font: "Roboto", sans-serif;
-$special-font: "Koulen", cursive;
+$main-font: 'Poppins', sans-serif;
+$special-font: 'Roboto', sans-serif;
 
 $fw-light: 300;
 $fw-normal: 400;

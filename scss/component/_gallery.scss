@@ -1,0 +1,33 @@
+/* galeria */
+
+.gallery-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: 300px;
+    gap: 15px;
+  }
+  
+  .gallery-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    -webkit-box-shadow: 10px 11px 12px -8px rgba(212, 188, 47, 0.36);
+    -moz-box-shadow: 10px 11px 12px -8px rgba(212, 188, 47, 0.36);
+    box-shadow: 10px 11px 12px -8px rgba(212, 188, 47, 0.36);
+  }
+  
+  .gallery-item {
+    position: relative;
+  }
+  
+  .gallery-title {
+    position: absolute;
+    bottom: 0;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.656);
+    width: 100%;
+    padding: 5px 0;
+    font-weight: 200;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+  }

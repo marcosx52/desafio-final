@@ -1,4 +1,24 @@
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
     }
+
+.main {
+        position: relative;
+        margin: 130px auto;
+        text-align: center;
+        padding:0 20px;
+        .heading{
+            font-size: 2.5rem;
+            font-weight: 500;
+            color: #202020;
+        }
+        .paragraph{
+            font-size: 2.1875rem;
+            font-weight: 700;
+            color:#202020;
+        }
+    }
+
