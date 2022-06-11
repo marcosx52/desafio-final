@@ -1,0 +1,26 @@
+.cont-nosotros{
+    .img-nos{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .nos-title{
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .nos-p{
+        text-align: center;
+        text-justify:inter-word;
+    }
+
+    
+}
+
+.img-nos2 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 10px;
+}

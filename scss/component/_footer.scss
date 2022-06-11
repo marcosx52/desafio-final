@@ -1,12 +1,12 @@
 footer {
-  position: fixed;
+  position: none;
   bottom: 0px;
   width: 100%;
   background: #111;
   color: #fff;
   .main-container {
     display: flex;
-    .left .content {
+      .left .content {
       p {
         text-align: justify;
       }

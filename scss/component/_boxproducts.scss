@@ -1,0 +1,18 @@
+.box-card1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;     
+}
+
+.h-prod {
+    text-align: center;
+    background-color: #FFC107;
+    color: black;
+}
+
+.card-text {
+    position: sticky;
+    justify-content: center;
+    top: 100%;
+    
+}
