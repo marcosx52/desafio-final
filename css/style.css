@@ -164,6 +164,11 @@ footer .main-container .right form .btn input[type=submit]:hover {
     margin: 5px 0;
   }
 }
+.a-footer {
+  color: #fff;
+  text-decoration: none;
+}
+
 /* galeria */
 .gallery-container {
   display: grid;
